@@ -1,0 +1,31 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated datasets
+data/raw/
+data/processed/
+
+# Keep only small public samples in Git
+!data/sample/
+
+# Power BI temporary files
+*.tmp
+~$*.pbix
+
+# Logs
+*.log
