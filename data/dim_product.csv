@@ -1,0 +1,25 @@
+product_id,product_name,category,subcategory,package_size_g,shelf_life_days,list_price_rub,standard_cost_rub,launch_date
+P001,Greek Yogurt Strawberry 150g,Dairy,Yogurt,150,21,89.0,43.0,2023-01-15
+P002,Greek Yogurt Blueberry 150g,Dairy,Yogurt,150,21,92.0,44.0,2023-02-01
+P003,Natural Yogurt 150g,Dairy,Yogurt,150,21,79.0,38.0,2022-09-01
+P004,Drinking Yogurt Strawberry 270g,Dairy,Drinking Yogurt,270,18,109.0,54.0,2023-03-10
+P005,Drinking Yogurt Peach 270g,Dairy,Drinking Yogurt,270,18,109.0,54.0,2023-03-10
+P006,Kefir 1% 500g,Dairy,Kefir,500,14,99.0,51.0,2022-05-01
+P007,Orange Juice 1L,Beverages,Juice,1000,180,169.0,91.0,2022-02-01
+P008,Apple Juice 1L,Beverages,Juice,1000,180,159.0,86.0,2022-02-01
+P009,Berry Juice 1L,Beverages,Juice,1000,180,179.0,96.0,2023-01-20
+P010,Iced Tea Lemon 500ml,Beverages,Iced Tea,500,270,109.0,51.0,2023-04-01
+P011,Iced Tea Peach 500ml,Beverages,Iced Tea,500,270,109.0,51.0,2023-04-01
+P012,Sparkling Lemonade 500ml,Beverages,Soft Drink,500,180,119.0,57.0,2023-05-01
+P013,Granola Bar Nuts 40g,Snacks,Granola Bar,40,270,69.0,29.0,2023-01-01
+P014,Granola Bar Chocolate 40g,Snacks,Granola Bar,40,270,72.0,31.0,2023-01-01
+P015,Wholegrain Crackers 100g,Snacks,Crackers,100,240,99.0,46.0,2022-08-01
+P016,Cheese Crackers 100g,Snacks,Crackers,100,240,105.0,49.0,2022-08-01
+P017,Granola Berries 300g,Breakfast,Granola,300,300,219.0,111.0,2023-02-15
+P018,Granola Nuts 300g,Breakfast,Granola,300,300,229.0,116.0,2023-02-15
+P019,Corn Flakes 300g,Breakfast,Cereal,300,360,179.0,82.0,2022-01-15
+P020,Chocolate Cereal 300g,Breakfast,Cereal,300,360,199.0,92.0,2022-01-15
+P021,Chocolate Pudding 150g,Desserts,Pudding,150,30,94.0,45.0,2023-06-01
+P022,Vanilla Pudding 150g,Desserts,Pudding,150,30,91.0,43.0,2023-06-01
+P023,Fruit Dessert Mango 120g,Desserts,Fruit Dessert,120,45,119.0,58.0,2024-02-01
+P024,Fruit Dessert Berry 120g,Desserts,Fruit Dessert,120,45,119.0,58.0,2024-02-01
